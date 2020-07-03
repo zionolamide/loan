@@ -37,10 +37,7 @@ if(isset($_POST['guarantor_submit'])){
     }
 }
 
-
 ?>
-
-
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
