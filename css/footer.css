@@ -1,0 +1,84 @@
+ 
+<style>
+
+#intouch {
+	
+	text-align:center;
+	border:1px solid gray;
+	
+	background-color:lightgray;
+	
+}
+
+
+#hhhh{
+	background-color:white;
+	text-align:center;
+	
+	
+}
+#location{
+	text-align:center;
+	background-color:gray;
+}
+
+
+#process{
+	
+	
+	border-radius:1000px solid gray;
+	
+	color:rgb(60, 60, 60);
+	padding:10px 10px 10px 10px ;
+	
+}
+#picture{
+	margin-left:150px;
+}
+#call{
+	
+	 border :none;
+	text-align:center;
+	
+	color:rgb(60, 60, 60);
+	
+}
+#loan{
+	
+	 border :none;
+	text-align:center;
+	
+	color:rgb(60, 60, 60);
+	
+	
+	
+}
+
+#loans{
+	margin-top:20px;
+	margin-left:10px;
+}
+
+#footer{
+	
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: goldenrod;
+   text-align: center;
+   font-size:50px;
+   border:2px solid goldenrod;
+   
+}
+
+button{
+	border:2px solid grey;
+	border-radius:9px;
+	padding:10px 20px 10px 20px;
+	background-color:black;
+	
+}
+
+</style>

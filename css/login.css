@@ -1,0 +1,55 @@
+<style>
+ 
+label{
+	color:black;
+}
+#form{
+	border:2px solid goldenrod;
+	border-radius:9px;
+	background-color: lightgray;
+}
+#background{
+	background-color:silver;
+}
+#location{
+	text-align:center;
+	background-color:gray;
+}
+#call{
+	
+	 border :none;
+	text-align:center;
+	
+	color:rgb(60, 60, 60);
+	
+}
+#loans{
+	margin-top:20px;
+	margin-left:10px;
+}
+#process{
+	
+	
+	border-radius:1000px solid gray;
+	
+	color:rgb(60, 60, 60);
+	padding:10px 10px 10px 10px ;
+	
+}
+#picture{
+	margin-left:150px;
+}
+#footer{
+	
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size:50px;
+   border:2px solid goldenrod;
+   border-radius:9px;
+}
+</style>

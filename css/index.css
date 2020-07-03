@@ -1,0 +1,41 @@
+ <style>
+ div.group {
+    
+    background-image: url("image/loans.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding:1px 1px 10px 1px;
+   
+	 
+	  
+ }
+div.motto{
+	color:white;
+	text-align:center;
+	margin-top:570px;
+	text-decoration: none;
+	
+}
+
+div.button{
+	margin-left:550px;
+    
+	text-decoration: none;
+}
+#get-started{
+	
+	list_style_type:none;
+	padding :10px 40px 10px 40px;
+	border-radius:10px;
+    color: white;
+    border:2px solid grey;
+    text-decoration: none;
+	background-color:black;
+}
+#a:hover:not(.active) {
+    background-color:gray;
+    color: white;
+	
+}
+
+</style>
